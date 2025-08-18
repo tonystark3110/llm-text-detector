@@ -1,0 +1,8 @@
+transformers
+sentence-transformers
+scikit-learn
+pandas
+numpy
+textstat
+spacy
+dataset
